@@ -1,60 +1,62 @@
-# 🎄 Árvore de Natal com CSS
+# 🎄 Christmas Tree with CSS
 
-Este projeto é uma árvore de Natal estilizada, com luzes que giram ao seu redor, criando um efeito visual impressionante e festivo.
+This project creates a beautiful Christmas tree with interactive animations using only HTML and CSS, bringing a charming visual effect for the festive season.
 
-## 📋 Descrição
+## 📋 Description
 
-A animação foi criada utilizando somente HTML e CSS. A árvore de Natal possui um design minimalista, com luzes coloridas que se movem em torno da árvore em um movimento circular contínuo. Além disso, uma estrela dourada no topo dá um toque especial.
+The Christmas tree is designed with a minimalist style, including simple yet impactful animations such as colorful lights rotating around the tree and a sparkling gold star at the top. The project is developed using **only HTML** and **CSS**, providing a continuous festive animation experience directly in your browser.
 
-## 🖼️ Demonstração
+## 🖼️ Demo
 
-**[Árvore de Natal com CSS](https://ninja1375.github.io/Arvore-de-natal-com-css/)**
+See the final result of the project in action:
 
-![Árvore de Natal com CSS ](https://github.com/user-attachments/assets/cf2f044a-e16d-4101-aa98-8740ae386ccc)
+**[Christmas Tree with CSS - View Here](https://ninja1375.github.io/Arvore-de-natal-com-css/)**
 
-> [!NOTE]
-> As luzes são animadas e se movem ao redor da árvore. Experimente abrir o projeto no navegador para ver a animação completa.
+![Christmas Tree with CSS](https://github.com/user-attachments/assets/cf2f044a-e16d-4101-aa98-8740ae386ccc)
 
-## 🚀 Tecnologias Utilizadas
+> **Important Note**  
+> The animation of the lights around the tree offers a dynamic and continuous visual effect. Open the project in your browser to experience the full animation.
 
-<a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
+## 🚀 Technologies Used
 
-- **HTML**: Estrutura básica da árvore.
-- **CSS**: Estilo visual e animações da árvore e suas luzes.
+- **HTML**: The structural base of the tree, where the elements are defined.
+- **CSS**: Used to style the tree and create the moving light and star animations.
 
-## 📂 Estrutura do Projeto
+**Icons**:
+
+<a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> 
+<a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
+
+## 📂 Project Structure
 
 ```plaintext
-├── index.html         # Estrutura do HTML
-├── style.css         # Estilos e animações
-└── README.md          # Documentação do projeto
+├── index.html         # HTML file with the structure of the tree
+├── style.css          # CSS file with styles and animations
+└── README.md          # This documentation file
 ```
-## 🔧 Como Usar
 
-**Clone o repositório:**
+## 🔧 How to Use
+
+### Clone the Repository
+
+To get started, simply clone this repository:
 
 ```bash
-
 git clone https://github.com/Ninja1375/Arvore-de-natal-com-css.git
 ```
-**Navegue até o diretório do projeto:**
+
+### Navigate to the Project Directory
 
 ```bash
-
 cd Arvore-de-natal-com-css
 ```
-**Abra o arquivo ```index.html``` em seu navegador favorito.**
 
-## 🎅 Contribuições
+### Open the `index.html` File in Your Browser
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar um problema.
+Open the `index.html` file directly in your browser to view the animated Christmas tree.
 
-## Apoie-me:
+## 🎅 Contributions
 
-<a href="https://buymeacoffee.com/antonio13" target="_blank"><img loading="lazy" src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=seu_nome_de_usuario&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="130" height="30"></a>
+Contributions are always welcome! If you would like to add new features or improve the project, feel free to submit a **Pull Request** or report issues through **Issues**.
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=DN574F28FYUNG" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg" width="130" height="30"></a>
-
-<a href="https://github.com/sponsors/Ninja1375" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white" width="130" height="30"></a>
-
-**Divirta-se e boas festas! 🎄**
+Happy holidays and may the Christmas magic be with you! 🎄✨
