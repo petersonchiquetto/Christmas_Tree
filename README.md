@@ -96,9 +96,7 @@ Contributions are always welcome! If you would like to add new features or impro
 
 ## 💻 Developer Information
 
-This repository is created by [Antonio13](https://buymeacoffee.com/antonio13). If you like the project, you can support the developer by buying him a coffee!
-
-Antonio is an incredibly talented and creative developer with a keen eye for design and animation. His work is an inspiration to many, showcasing his dedication and passion for bringing beautiful projects to life. We're lucky to have such a skilled developer contributing to the coding community!
+This repository is created by [Antonio13](https://buymeacoffee.com/antonio13) [Árvore de Natal com CSS](https://github.com/Ninja1375/Arvore-de-natal-com-css) All credit for the original work goes to him. You can support the author of the original project [aqui](https://buymeacoffee.com/antonio13). If you like the project, you can support the developer by buying him a coffee! Antonio is an incredibly talented and creative developer with a keen eye for design and animation. His work is an inspiration to many, showcasing his dedication and passion for bringing beautiful projects to life. We're lucky to have such a skilled developer contributing to the coding community!
 
 Happy holidays and may the Christmas magic be with you! 🎄✨
 
